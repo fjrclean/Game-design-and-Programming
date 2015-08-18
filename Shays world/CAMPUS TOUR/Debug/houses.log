@@ -1,0 +1,96 @@
+﻿Build started 18/08/2015 11:11:14 AM.
+     1>Project "C:\Users\Nathan\Desktop\Shays shit\Shays world\CAMPUS TOUR\houses.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         D:\Visio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D NDEBUG /Gm /EHsc /RTC1 /MD /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt AABB.CPP AABBLinkedList.cpp AABBNode.cpp camera.cpp cameraMap.cpp collision.cpp EasySound.cpp main.cpp PlainLinkedList.cpp PlainNode.cpp Sound.cpp SoundTime.cpp texturedPolygons.cpp
+         texturedPolygons.cpp
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\texturedpolygons.cpp(38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visio\vc\include\stdio.h(211) : see declaration of 'fopen'
+         SoundTime.cpp
+         Sound.cpp
+         PlainNode.cpp
+         PlainLinkedList.cpp
+         main.cpp
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(730): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(736): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(746): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(751): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3827): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3813) : definition of 'i' ignored
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3781) : definition of 'i' used
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3896): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3882) : definition of 'i' ignored
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3781) : definition of 'i' used
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3919): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3786) : definition of 'j' ignored
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3781) : definition of 'j' used
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3920): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3786) : definition of 'j' ignored
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3781) : definition of 'j' used
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3921): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3786) : definition of 'j' ignored
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(3781) : definition of 'j' used
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(4915): warning C4258: 'k' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(4896) : definition of 'k' ignored
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(4858) : definition of 'k' used
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5041): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5038) : definition of 'i' ignored
+                 c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5029) : definition of 'i' used
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5112): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5113): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5115): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5116): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5118): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5119): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5121): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5122): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5124): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5125): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5130): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5135): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5140): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5146): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5148): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5149): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5150): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5151): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5152): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5153): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5154): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5155): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5156): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5157): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\main.cpp(5158): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+         EasySound.cpp
+         collision.cpp
+         cameraMap.cpp
+         camera.cpp
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\camera.cpp(200): warning C4244: 'argument' : conversion from 'GLdouble' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\camera.cpp(211): warning C4244: 'argument' : conversion from 'GLdouble' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\camera.cpp(242): warning C4244: 'argument' : conversion from 'GLdouble' to 'const int', possible loss of data
+     1>c:\users\nathan\desktop\shays shit\shays world\campus tour\camera.cpp(252): warning C4244: 'argument' : conversion from 'GLdouble' to 'const int', possible loss of data
+         AABBNode.cpp
+         AABBLinkedList.cpp
+         AABB.CPP
+         Generating Code...
+       Link:
+         D:\Visio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\houses.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Nathan\Desktop\Shays shit\Shays world\CAMPUS TOUR\dependency\GL\lib" /LIBPATH:"C:\Users\Nathan\Desktop\Shays shit\Shays world\CAMPUS TOUR\dependency\SDL2\lib" SDL2.lib SDL2main.lib freeglut.lib glut.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\houses.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\houses.lib" /MACHINE:X86 /SAFESEH:NO .\Debug\AABB.obj
+         .\Debug\AABBLinkedList.obj
+         .\Debug\AABBNode.obj
+         .\Debug\camera.obj
+         .\Debug\cameraMap.obj
+         .\Debug\collision.obj
+         .\Debug\EasySound.obj
+         .\Debug\main.obj
+         .\Debug\PlainLinkedList.obj
+         .\Debug\PlainNode.obj
+         .\Debug\Sound.obj
+         .\Debug\SoundTime.obj
+         .\Debug\texturedPolygons.obj
+         houses.vcxproj -> C:\Users\Nathan\Desktop\Shays shit\Shays world\CAMPUS TOUR\.\Debug\houses.exe
+       BscMake:
+         D:\Visio\VC\bin\bscmake.exe /nologo /o".\Debug\houses.bsc" .\Debug\AABB.sbr .\Debug\AABBLinkedList.sbr .\Debug\AABBNode.sbr .\Debug\camera.sbr .\Debug\cameraMap.sbr .\Debug\collision.sbr .\Debug\EasySound.sbr .\Debug\main.sbr .\Debug\PlainLinkedList.sbr .\Debug\PlainNode.sbr .\Debug\Sound.sbr .\Debug\SoundTime.sbr .\Debug\texturedPolygons.sbr
+     1>Done Building Project "C:\Users\Nathan\Desktop\Shays shit\Shays world\CAMPUS TOUR\houses.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.60
